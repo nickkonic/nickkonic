@@ -3,9 +3,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nickkonic&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  <a href="mailto:buensalidakarlnestor@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-blue" alt="Email" />
-  </a>
 </p>
 
 <div align="center">
