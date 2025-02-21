@@ -6,27 +6,16 @@
   <a href="mailto:buensalidakarlnestor@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-blue" alt="Email" />
   </a>
-  <img src="https://img.shields.io/badge/Currently-Open%20to%20Opportunities-success" alt="Open to Opportunities" />
 </p>
 
 <div align="center">
-  
-
-const karl = {
-    role: "Full-Stack Developer",
-    location: "Philippines",
-    currentFocus: "Web Development & Cloud Computing",
-    status: "Interning @ Quanby IT Solution",
-    passion: ["Coding", "Problem-Solving", "Building Scalable Apps"]
-};
-
 </div>
 
 ---
 
 ### 🚀 **Quick Highlights**
 
-- 🔭 Currently interning at **Quanby IT Solution**
+- 🔭 Currently intern at **Quanby IT Solution**
 - 🌱 Always learning & exploring new technologies
 - 💡 Passionate about creating efficient, scalable solutions
 - 🎯 Focused on: Web Development, Backend Systems, Cloud Computing
@@ -52,14 +41,11 @@ const karl = {
   <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a>
   <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/></a>
-  <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/></a>
 </p>
 
 #### 🖥️ Backend Development  
 <p align="left">
   <a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/></a>
-  <a href="https://laravel.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="40" height="40"/></a>
-  <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="40" height="40"/></a>
   <a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="40" height="40"/></a>
 </p>
 
@@ -85,7 +71,6 @@ const karl = {
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nickkonic&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nickkonic&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
