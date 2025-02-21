@@ -70,19 +70,13 @@
 ### 📊 **GitHub Analytics**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nickkonic&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" alt="GitHub Stats"/>
-</p>
-
-
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nickkonic&theme=react-dark&bg_color=0D1117&hide_border=true" width="98%" alt="Activity Graph"/>
 </p>
 
 
 ### 🤝 **Let's Connect!**
 
-<p align="center">
+<p>
   <a href="mailto:buensalidakarlnestor@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
