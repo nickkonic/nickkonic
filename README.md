@@ -34,6 +34,7 @@
 #### 🏗️ Frontend Development  
 <p align="left">
   <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a>
+  <a href="https://nextjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/></a>
   <a href="https://angular.io" target="_blank"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40"/></a>
   <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a>
@@ -46,11 +47,13 @@
   <a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="40" height="40"/></a>
 </p>
 
-#### 🗄️ Databases  
+#### 🗄️ Databases & Development Tools 
 <p align="left">
   <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
   <a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/></a>
+  <a href="https://supabase.com/" target="_blank"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/supabase.svg" alt="Supabase" width="40" height="40"/></a>
   <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/></a>
+  <a href="https://www.apachefriends.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original-wordmark.svg" alt="XAMPP" width="40" height="40"/></a>
 </p>
 
 #### 🚀 DevOps & Tools  
@@ -73,6 +76,13 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nickkonic&theme=react-dark&bg_color=0D1117&hide_border=true" width="98%" alt="Activity Graph"/>
+</p>
+
+---
+
+### 🐍 **Contribution Snake**
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nickkonic/nickkonic/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
