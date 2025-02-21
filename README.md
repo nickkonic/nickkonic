@@ -76,7 +76,6 @@
 ### 🎯 **Profile Overview**  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nickkonic&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=ff6b81&text_color=ffffff&icon_color=ffcc00" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nickkonic&theme=radical&hide_border=true&background=0D1117&ring=ff6b81&fire=ffcc00&currStreakLabel=ff6b81" alt="GitHub Streak" width="48%" />
 </p>
 
 ### 🚀 **Most Used Languages**  
