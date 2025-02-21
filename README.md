@@ -70,9 +70,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=nickkonic&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" alt="GitHub Stats"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nickkonic&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" alt="Top Languages"/>
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nickkonic&theme=react-dark&bg_color=0D1117&hide_border=true" width="98%" alt="Activity Graph"/>
