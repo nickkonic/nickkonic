@@ -78,14 +78,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nickkonic&theme=react-dark&bg_color=0D1117&hide_border=true" width="98%" alt="Activity Graph"/>
 </p>
 
----
-
-### 🐍 **Contribution Snake**
-<p align="center">
-  <img src="https://raw.githubusercontent.com/nickkonic/nickkonic/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
----
 
 ### 🤝 **Let's Connect!**
 
