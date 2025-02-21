@@ -15,7 +15,7 @@
 - 🔭 Currently intern at **Quanby IT Solution**
 - 🌱 Always learning & exploring new technologies
 - 💡 Passionate about creating efficient, scalable solutions
-- 🎯 Focused on: Web Development, Backend Systems, Cloud Computing
+- 🎯 Focused on: Web Development, Software Developtment, Application Development, Backend Systems, Cloud Computing 
 - 📫 Reach me at: **buensalidakarlnestor@gmail.com**
 - ⚡ Fun fact: I turn ☕ into `<code/>`
 
