@@ -11,7 +11,7 @@
 
 <div align="center">
   
-```javascript
+
 const karl = {
     role: "Full-Stack Developer",
     location: "Philippines",
@@ -19,7 +19,6 @@ const karl = {
     status: "Interning @ Quanby IT Solution",
     passion: ["Coding", "Problem-Solving", "Building Scalable Apps"]
 };
-```
 
 </div>
 
