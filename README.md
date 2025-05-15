@@ -69,9 +69,9 @@
 
 ### 📊 **GitHub Analytics**
 
-/* <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nickkonic&theme=react-dark&bg_color=0D1117&hide_border=true" width="98%" alt="Activity Graph"/>
-</p> */
+// <p align="center">
+  //<img src="https://github-readme-activity-graph.vercel.app/graph?username=nickkonic&theme=react-dark&bg_color=0D1117&hide_border=true" width="98%" alt="Activity Graph"/>
+//</p> 
 
 
 ### 🤝 **Let's Connect!**
