@@ -48,7 +48,7 @@
 <p align="left">
   <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
   <a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/></a>
-  <a href="https://www.prisma.io/" target="_blank"><img src="https://raw.githubusercontent.com/prisma/prisma/main/docs/static/images/logo/logo.svg](https://avatars.githubusercontent.com/u/17219288?s=280&v=4)](https://cdn-1.webcatalog.io/catalog/prisma-data-platform/prisma-data-platform-icon-filled-256.webp?v=1714776724281)" alt="Prisma" width="40" height="40"/></a>
+  <a href="https://www.prisma.io/" target="_blank"><img src="https://raw.githubusercontent.com/prisma/prisma/main/docs/static/images/logo/logo.svg" alt="Prisma" width="40" height="40"/></a>
   <a href="https://supabase.com/" target="_blank"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/supabase.svg" alt="Supabase" width="40" height="40"/></a>
   <a href="https://firebase.google.com/" target="_blank"><img src="https://firebase.google.com/static/images/brand-guidelines/logo-vertical.png" alt="Firebase" width="40" height="40"/></a>
   <a href="https://www.apachefriends.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original-wordmark.svg" alt="XAMPP" width="40" height="40"/></a>
