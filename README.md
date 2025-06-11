@@ -71,7 +71,7 @@
 
 ---
 
-### 🤝 **Let's Connect!** wow
+### 🤝 **Let's Connect!**
 
 <p>
   <a href="mailto:buensalidakarlnestor@gmail.com">
