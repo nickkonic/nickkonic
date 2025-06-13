@@ -84,7 +84,3 @@
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 </p>
-wew
-2131231231231
-2312312312312
-321312312312
