@@ -9,7 +9,7 @@
 
 ### 🚀 **Quick Highlights**
 
-- 🔭 Currently intern at **Quanby IT Solution**
+- 🔭 Currently Software Engineer at **Quanby IT Solution**
 - 🌱 Always learning & exploring new technologies
 - 💡 Passionate about creating efficient, scalable solutions
 - 🎯 Focused on: Web Development, Software Development, Application Development, Backend Systems, Cloud Computing 
