@@ -14,7 +14,7 @@
 - 💡 Passionate about building efficient, scalable systems
 - 🎯 Focus: Web & App Development, Backend Systems, Cloud Integration
 - 📫 Reach me at: **buensalidakarlnestor@gmail.com**
-- ⚡ Fun fact: I turn ☕ into <code/>
+- ⚡ Fun fact: I turn ☕ into `<code/>`
 
 ---
 
